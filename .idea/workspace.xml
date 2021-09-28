@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2beb3de-e063-48d2-a0d5-83cc85fd2369" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/edu/leetcode/gittest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/edu/leetcode/gittest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -183,7 +184,7 @@
       <workItem from="1631439925788" duration="3674000" />
       <workItem from="1631929041982" duration="14574000" />
       <workItem from="1632187486563" duration="41135000" />
-      <workItem from="1632794934474" duration="11985000" />
+      <workItem from="1632794934474" duration="12152000" />
     </task>
     <task id="LOCAL-00001" summary="寻找重复数字">
       <created>1632820418980</created>
@@ -227,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632822531891</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="更新代码并上传">
+      <created>1632822777425</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1632822777425</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,17 +250,18 @@
     <MESSAGE value="这是利用idea重新上传" />
     <MESSAGE value="这是利用idea重新上传22" />
     <MESSAGE value="这是利用idea重新上传33" />
-    <option name="LAST_COMMIT_MESSAGE" value="这是利用idea重新上传33" />
+    <MESSAGE value="更新代码并上传" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新代码并上传" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1085" y="431" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1632645287701">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1085" y="431" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/1920.186.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1632645287701" />
-    <state x="895" y="148" key="CommitChangelistDialog2" timestamp="1632822528700">
+    <state x="895" y="148" key="CommitChangelistDialog2" timestamp="1632822774748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="895" y="148" key="CommitChangelistDialog2/1920.186.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1632822528700" />
+    <state x="895" y="148" key="CommitChangelistDialog2/1920.186.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1632822774748" />
     <state x="705" y="444" key="FileChooserDialogImpl" timestamp="1632822489767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -305,10 +314,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="596" y="188" key="SettingsEditor/1920.186.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1632822037924" />
-    <state x="638" y="277" key="Vcs.Push.Dialog.v2" timestamp="1632822680710">
+    <state x="638" y="277" key="Vcs.Push.Dialog.v2" timestamp="1632822820621">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="638" y="277" key="Vcs.Push.Dialog.v2/1920.186.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1632822680710" />
+    <state x="638" y="277" key="Vcs.Push.Dialog.v2/1920.186.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1632822820621" />
     <state x="723" y="331" key="git4idea.merge.GitPullDialog" timestamp="1632821785408">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
