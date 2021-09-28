@@ -1,0 +1,28 @@
+package com.test.reflection;
+
+/**
+ * @author
+ * @version 1.0
+ * @team 魔法城堡
+ * @date 2021/9/18 9:39
+ */
+public class Student {
+
+    private String studentName;
+    public int studentAge;
+
+    public Student(){
+
+    }
+    private Student(String studentName) {
+        this.studentName = studentName;
+    }
+    public void setStudentAge(int studentAge) {
+        this.studentAge = studentAge;
+    }
+
+    private String show(String message) {
+        System.out.println("show: " + studentName + "," + studentAge + "," + message);
+        return "testReturnValue";
+    }
+}
