@@ -16,5 +16,6 @@ public class gittest {
         System.out.println("VCS中更改远程仓库地址");
         System.out.println("我需要学习在命令行中提交更新代码");
         System.out.println("利用idea提交代码");
+        System.out.println("利用bash里面的命令行提交");
     }
 }

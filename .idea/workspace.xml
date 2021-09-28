@@ -184,7 +184,7 @@
       <workItem from="1631439925788" duration="3674000" />
       <workItem from="1631929041982" duration="14574000" />
       <workItem from="1632187486563" duration="41135000" />
-      <workItem from="1632794934474" duration="12152000" />
+      <workItem from="1632794934474" duration="12698000" />
     </task>
     <task id="LOCAL-00001" summary="寻找重复数字">
       <created>1632820418980</created>
@@ -235,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632822777425</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="用idea提交代码">
+      <created>1632829313697</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1632829313697</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,17 +258,18 @@
     <MESSAGE value="这是利用idea重新上传22" />
     <MESSAGE value="这是利用idea重新上传33" />
     <MESSAGE value="更新代码并上传" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新代码并上传" />
+    <MESSAGE value="用idea提交代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="用idea提交代码" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1085" y="431" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1632645287701">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1085" y="431" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/1920.186.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1632645287701" />
-    <state x="895" y="148" key="CommitChangelistDialog2" timestamp="1632822774748">
+    <state x="895" y="148" key="CommitChangelistDialog2" timestamp="1632829309729">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="895" y="148" key="CommitChangelistDialog2/1920.186.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1632822774748" />
+    <state x="895" y="148" key="CommitChangelistDialog2/1920.186.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1632829309729" />
     <state x="705" y="444" key="FileChooserDialogImpl" timestamp="1632822489767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -314,14 +322,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="596" y="188" key="SettingsEditor/1920.186.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1632822037924" />
-    <state x="638" y="277" key="Vcs.Push.Dialog.v2" timestamp="1632822820621">
+    <state x="638" y="277" key="Vcs.Push.Dialog.v2" timestamp="1632829443817">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="638" y="277" key="Vcs.Push.Dialog.v2/1920.186.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1632822820621" />
-    <state x="723" y="331" key="git4idea.merge.GitPullDialog" timestamp="1632821785408">
+    <state x="638" y="277" key="Vcs.Push.Dialog.v2/1920.186.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1632829443817" />
+    <state x="723" y="331" key="git4idea.merge.GitPullDialog" timestamp="1632829319471">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="723" y="331" key="git4idea.merge.GitPullDialog/1920.186.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1632821785408" />
+    <state x="723" y="331" key="git4idea.merge.GitPullDialog/1920.186.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1632829319471" />
     <state x="791" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1632822672754">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
